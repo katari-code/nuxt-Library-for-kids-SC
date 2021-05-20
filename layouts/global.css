@@ -1,0 +1,5 @@
+@font-face {
+    font-family: "Qwigley";
+    src: local("Qwigley"),
+     url(~assets/Qwigley/Qwigley-Regular.ttf) format("truetype");
+}
