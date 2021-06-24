@@ -75,7 +75,7 @@
         <div
           class="tw-col-start-3 tw-grid tw-grid-cols-5 tw-col-span-8 tw-py-6 tw-rounded-lg"
         >
-          <h3 class="tw-col-span-5">Peple also viewd</h3>
+          <h3 class="tw-col-span-5">People also viewd</h3>
 
           <div
             v-for="i in books"
